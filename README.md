@@ -28,4 +28,4 @@
 >  - [파톱#3](20201024.html)
 > 2. Practicing
 >  - [Covid-19 크롤링](covid-19.html)
->  - [Timetable 만들기](Timetable 만들기.html)
+>  - [Timetable 만들기](Timetable_만들기.html)
