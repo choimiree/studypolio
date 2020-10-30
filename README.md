@@ -3,6 +3,16 @@
 >  - https://choimiree.github.io/studypolio/
 
 
-## Miree's python diary
-> 1. python
->  - [파이썬톺아보기(Reviewing Python)](20201011_python.html)
+### Miree's python diary
+> 1. 파이썬톺아보기
+>  - [파톺#1](20201011_python.html)
+
+References
+- 파이썬 공식 문서 (Python 3.7.4 document), https://docs.python.org/3/index.html
+- Tutorialspoint 문서, https://www.tutorialspoint.com/python/
+- Python data 가이드, https://ita.kaist.ac.kr/data/board/2.Python_%25EC%259E%2590%25EB%25A3%258C%25EA%25B5%25AC%25EC%25A1%25B0.pdf
+- An Introduction to Python, http://tdc-www.harvard.edu/Python.pdf
+- 파이썬 - 기본을 갈고 닦자! wikidocs, https://wikidocs.net/book/1553
+- 점프 투 파이썬 wikidocs, https://wikidocs.net/book/1
+- 핵심만 간단히, Hello World! 파이썬 3, https://wikidocs.net/book/1657
+- 예제로 배우는 파이썬 프로그래밍, http://pythonstudy.xyz/
