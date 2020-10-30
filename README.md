@@ -15,7 +15,6 @@
 >     - [점프 투 파이썬 wikidocs](https://wikidocs.net/book/1)
 >     - [핵심만 간단히, Hello World! 파이썬 3](https://wikidocs.net/book/1657)
 >     - [예제로 배우는 파이썬 프로그래밍](http://pythonstudy.xyz/)
-
 >  - [파톱#2](20201017.html)
 >    - References
 >     - [파이썬 공식 문서](https://docs.python.org/3/index.html)
@@ -26,3 +25,4 @@
 >     - [점프 투 파이썬 wikidocs](https://wikidocs.net/book/1)
 >     - [핵심만 간단히, Hello World! 파이썬 3](https://wikidocs.net/book/1657)
 >     - [예제로 배우는 파이썬 프로그래밍](http://pythonstudy.xyz/)
+>  - [파톱#3](20201024.html)
