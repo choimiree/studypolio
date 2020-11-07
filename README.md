@@ -1,5 +1,5 @@
-# Welcome to Miree's studypolio
-## studypolio
+# Welcome to Miree's Studypolio
+## Miree,Choi_Studypolio
 >  - https://choimiree.github.io/studypolio/
 
 
