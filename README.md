@@ -39,7 +39,7 @@
 >     - [예제로 배우는 파이썬 프로그래밍](http://pythonstudy.xyz/)
 >     - [모두의 알고리즘 with 파이썬](https://thebook.io/006935/)
 
->  - [파이썬 톺아보기](파이썬 톺아보기.html)
+>  - [파이썬 톺아보기](파이썬_톺아보기.html)
 >    - References
 >     - [파이썬 공식 문서 (Python 3.7.4 document)](https://docs.python.org/3/index.html)
 >     - [An Introduction to Python](http://tdc-www.harvard.edu/Python.pdf)
