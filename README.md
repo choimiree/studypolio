@@ -4,7 +4,7 @@
 
 
 ### Miree's python diary
-> 1. 파이썬톺아보기
+> 1. 파이썬 톺아보기
 >  - [파톺#1](20201011_python.html)
 >    - References
 >     - [파이썬 공식 문서 (Python 3.7.4 document)](https://docs.python.org/3/index.html)
@@ -16,7 +16,7 @@
 >     - [핵심만 간단히, Hello World! 파이썬 3](https://wikidocs.net/book/1657)
 >     - [예제로 배우는 파이썬 프로그래밍](http://pythonstudy.xyz/)
 
->  - [파톱#2](20201017.html)
+>  - [파톺#2](20201017.html)
 >    - References
 >     - [파이썬 공식 문서](https://docs.python.org/3/index.html)
 >     - [웹크롤링 기본](https://www.fun-coding.org/crawl_basic2.html)
@@ -27,9 +27,19 @@
 >     - [핵심만 간단히, Hello World! 파이썬 3](https://wikidocs.net/book/1657)
 >     - [예제로 배우는 파이썬 프로그래밍](http://pythonstudy.xyz/)
 
->  - [파톱#3](20201024.html)
+>  - [파톺#3](20201024.html)
 
->  - [파톱#4](20201031.html)
+>  - [파톺#4](20201031.html)
+>    - References
+>     - [파이썬 공식 문서 (Python 3.7.4 document)](https://docs.python.org/3/index.html)
+>     - [An Introduction to Python](http://tdc-www.harvard.edu/Python.pdf)
+>     - [파이썬 - 기본을 갈고 닦자! wikidocs](https://wikidocs.net/book/1553)
+>     - [점프 투 파이썬 wikidocs](https://wikidocs.net/book/1)
+>     - [핵심만 간단히, Hello World! 파이썬 3](https://wikidocs.net/book/1657)
+>     - [예제로 배우는 파이썬 프로그래밍](http://pythonstudy.xyz/)
+>     - [모두의 알고리즘 with 파이썬](https://thebook.io/006935/)
+
+>  - [파이썬 톺아보기](파이썬 톺아보기.html)
 >    - References
 >     - [파이썬 공식 문서 (Python 3.7.4 document)](https://docs.python.org/3/index.html)
 >     - [An Introduction to Python](http://tdc-www.harvard.edu/Python.pdf)
