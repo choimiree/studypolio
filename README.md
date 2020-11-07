@@ -4,7 +4,7 @@
 
 
 ### Miree's python diary
-> 1. 파이썬 톺아보기
+1. 파이썬 톺아보기
 >  - [파톺#1](20201011_python.html)
 >    - References
 >     - [파이썬 공식 문서 (Python 3.7.4 document)](https://docs.python.org/3/index.html)
