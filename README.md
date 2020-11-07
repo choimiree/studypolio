@@ -2,7 +2,6 @@
 ## Miree,Choi_Studypolio
 >  - https://choimiree.github.io/studypolio/
 
-
 ### Python
 1. 파이썬 톺아보기
 >  - [파톺#1](20201011_python.html)
@@ -45,6 +44,6 @@
 >     - [예제로 배우는 파이썬 프로그래밍](http://pythonstudy.xyz/)
 >     - [모두의 알고리즘 with 파이썬](https://thebook.io/006935/)
 
-  Practicing
+2. Practicing
 >  - [Covid-19 크롤링](covid-19.html)
 >  - [Timetable 만들기](Timetable_만들기.html)
