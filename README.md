@@ -45,5 +45,5 @@
 >     - [모두의 알고리즘 with 파이썬](https://thebook.io/006935/)
 
 2. Practicing
->  - [Covid-19 크롤링](covid-19.html)
+>  - [Covid-19 크롤링](covid_19.html)
 >  - [Timetable 만들기](Timetable_만들기.html)
